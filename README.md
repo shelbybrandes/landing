@@ -1,1 +1,2 @@
 # landing
+For this project I'll be creating my first landing page design. Although I've dabbled with website creation via other web sites I've never done one with code and CSS/Flexbox. I've really enjoyed learning css and flexbox so I'm excited to take what I've learned and create something from scratch!
