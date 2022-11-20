@@ -9,6 +9,7 @@ body {
     color: #F9FAF8;
     padding-left: 200px;
     padding-right: 200px;
+    padding-top: 20px;
 
 }
 
@@ -33,7 +34,7 @@ ul {
 
 .placeholder {
     padding-top: 100px;
-margin-left: 100px;
+margin-left: 200px;
 }
 
 .subtitle {
@@ -88,7 +89,7 @@ background-color: #1F2937;
     display: flex;
 justify-content: center;
   gap: 40px;
-margin-bottom: 200px;
+margin-bottom: 100px;
   }
 
 .titletwo{
@@ -113,8 +114,77 @@ margin-bottom: 200px;
     max-width: 100px;
     text-align: center;
     justify-content: center;
+    padding: 10px;
+    margin-left: 15px;
   }
 
   img {
     border-radius: 10px;
+  }
+
+  .quote {
+
+    flex-wrap: wrap;
+    justify-content: center;
+background-color: #e5e7eb;
+text-align: center;
+font-style: italic;
+font-size: 24pt;
+color:#1F2937;
+padding-top: 100px;
+padding-left: 100px;
+padding-right: 100px;
+padding-bottom: 15px;
+
+
+  }
+
+  .signiture {
+    background-color: #e5e7eb;
+    font-size: 14pt;
+    font-weight: 900;
+    text-align: right;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+
+  }
+
+  .lowercontainer {
+    background-color: #F9FAF8;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 60px;
+    padding-right: 60px;
+
+    
+  }
+
+  .calltoaction {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 700px;
+    background-color:#3882f6;
+    color: #F9FAF8;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 60px;
+    padding-right: 60px;
+    border-radius: 5px;
+    flex-direction: row-reverse;
+    margin-left:250px
+  }
+
+  .buttontwo {
+    height: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #3882f6;
+    border: 2px solid white;
+    border-radius: 5px;
+    color: #F9FAF8;
+    align-items: center;
   }
